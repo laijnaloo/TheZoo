@@ -1,0 +1,12 @@
+Farao, 2, snake, Male
+Sister, 34, unicorn, Female
+Peace, 23, t-rex, Female
+Lucky, 3, serval, Male
+Fancy, 345, fire dragon, Female
+Icy, 231, ice dragon, Male
+Boo, 6, panda, Male
+Hejsan, 34, parrot, Female
+Liam, 3, pig, Male
+Nala, 5, Horse, Female
+Mini, 2, Cat, Female
+df, 4, cat, Female
